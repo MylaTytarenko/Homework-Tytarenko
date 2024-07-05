@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-section {
+    width: 100vh;
+    background: url("img/image2.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top-section div iframe {
+    width: 900px;
+    height: 400px;
+    flex-shrink: 0;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+}
+.top-section div p{
+    width: 949px;
+    height: 183px;
+    flex-shrink: 0;
+    color: #000;
+    font-family: "KoHo", sans-serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 200;
+    line-height: normal;
+{
+
+
+
