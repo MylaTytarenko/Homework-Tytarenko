@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-section{
+    height: 100vh;
+    background: url("img/image5.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.LOREM{
+    width: 453.6px;
+    height: 700px;
+    flex-shrink: 0;
+    background: rgba(83, 83, 83, 0.40);
+}
